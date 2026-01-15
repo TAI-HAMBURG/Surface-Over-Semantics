@@ -1,4 +1,4 @@
-![Logo Tempviz](/img/tempviz_logo.png)
+![Logo SOS](/img/sos_header.png)
 
 
 <h1 align="center">
@@ -31,7 +31,7 @@ A brief description of the files in *data* is:
 - **full_dataset.csv**
     - Contains all translated prompts.
 
-- **annotations/annotator_x.csv**
+- **human_annotations/annotator_x.csv**
     - Contains the annotations of each annotator on the validation set of the SoS scores
 
 
@@ -52,7 +52,7 @@ A brief description of the files in *code* is:
 Please use the following bibtex entry to cite us (TBD):
  
 ```bib
-@inproceedings{,
+@inproceedings{}
 ```
 
 
